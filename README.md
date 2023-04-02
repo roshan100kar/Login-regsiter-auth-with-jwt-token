@@ -1,5 +1,5 @@
 # user auth system
-## Register User
+### Register User
 ## Get All Information
 ## Check mandaotry fields
 ## check already registered
