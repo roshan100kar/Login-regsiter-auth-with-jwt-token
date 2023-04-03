@@ -41,5 +41,5 @@ if (!(email && password && firstname && lastname)) {
 
 ### Proctecting The Route
 
-Markup : * Used Middleware
+- Used Middleware
 
