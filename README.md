@@ -40,6 +40,6 @@ if (!(email && password && firstname && lastname)) {
 
 
 ### Proctecting The Route
-*. Used Middleware
- Markup : * Used Middleware
+
+Markup : * Used Middleware
 
