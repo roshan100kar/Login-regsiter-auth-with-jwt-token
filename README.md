@@ -37,3 +37,9 @@ if (!(email && password && firstname && lastname)) {
 4. for e.g if you want to doing someting in database 
 5. Just before save do something or just after save do something 
 6. Some times it also called as lifecycle event or life cycle hooks
+
+
+### Proctecting The Route
+*. Used Middleware
+ Markup : * Used Middleware
+
