@@ -42,4 +42,8 @@ if (!(email && password && firstname && lastname)) {
 ### Proctecting The Route
 
 - Used Middleware
+- Check for token presence
+- verify the token
+- extract info from payload
+- NEXT()
 
